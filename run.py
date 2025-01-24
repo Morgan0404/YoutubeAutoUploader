@@ -39,7 +39,6 @@ def upload_video(youtube):
             "privacyStatus": "private"
         }
     }
-
     # put the path of the video that you want to upload
     media_file = "/Users/morgan/Desktop/youtube-uploader/Download.mp4"
 
